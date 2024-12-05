@@ -10,7 +10,7 @@
 | PCA(主成分分析)による異常検知 | 変数間の関係が線形関係 | PCAによる写像後の復生データとの誤差値に基づいて判別する。                  | 
 
 ## MT法
-* mahalanobis-taguchi-method.ipynb
+* [mahalanobis-taguchi-method.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/mahalanobis-taguchi-method.ipynb)
 
 ## LOF 
 * ...
