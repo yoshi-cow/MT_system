@@ -6,13 +6,21 @@
 | モデル                        | データ分布             | 特徴                                                                       | 
 | ----------------------------- | ---------------------- | -------------------------------------------------------------------------- | 
 | MT法                          | 正規分布               | マハラノビス距離に変換することで、異常値の閾値を設定                       | 
-| LOF(局所外れ値)               | 非正規分布             | k-最近傍法をベースにして、正常データ群での凝集度を考慮した距離を算出する。 | 
-| PCA(主成分分析)による異常検知 | 変数間の関係が線形関係 | PCAによる写像後の復生データとの誤差値に基づいて判別する。                  | 
+| LOF(局所外れ値)               | 非正規分布             | k-最近傍法をベースにして、正常データ群での凝集度を考慮した距離を算出することで異常値を識別する | 
+| PCA(主成分分析)による異常検知 | 変数間の関係が線形関係 | PCAによる写像後の復生データとの誤差値に基づいて判別する                  | 
 
 ## MT法
-* [mahalanobis-taguchi-method.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/mahalanobis-taguchi-method.ipynb)
+* pythonコード
+  * [mahalanobis-taguchi-method.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/mahalanobis-taguchi-method.ipynb)
 
 ## LOF 
-* ...
+* 概要:
+  * ...
+* pythonコード:
+  *  ...
 
 ## PCAによる異常検知
+* 概要:
+  * ...
+* pythonコード:
+  *  ...
