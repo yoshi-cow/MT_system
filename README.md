@@ -21,6 +21,6 @@
 
 ## PCAによる異常検知
 * 概要:
-  * ...
+  * [PCA_Anomaly_Detection_Explanation.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/PCA_Anomaly_Detection_Explanation.ipynb)
 * pythonコード:
-  *  ...
+  * [PCA_Anomaly_Detection_sample_code.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/PCA_Anomaly_Detection_sample_code.ipynb)
