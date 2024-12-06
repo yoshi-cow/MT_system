@@ -15,9 +15,9 @@
 
 ## LOF(局所外れ値度) 
 * 概要:
-  * ...
+  * [LOF_explaining_theory.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/LOF_explaining_theory.ipynb)
 * pythonコード:
-  *  ...
+  * [LOF_code_example.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/LOF_code_example.ipynb)
 
 ## PCAによる異常検知
 * 概要:
