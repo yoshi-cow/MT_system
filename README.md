@@ -10,8 +10,10 @@
 | PCA(主成分分析)による異常検知 | 変数間の関係が線形関係 | 正常データからPCAにより正常部分空間を作り、そこからの復元データとの誤差値に基づいて判別する。                  | 
 
 ## MT法
-* pythonコード
+* pythonコード1:
   * [mahalanobis-taguchi-method.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/mahalanobis-taguchi-method.ipynb)
+* pythonコード2(SN比の説明含む):
+  * [SN_ratio_in_MT_method.ipynb](https://github.com/yoshi-cow/MT_system/blob/main/SN_ratio_in_MT_method.ipynb) 
 
 ## LOF(局所外れ値度) 
 * 概要:
